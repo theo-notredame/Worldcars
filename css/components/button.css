@@ -1,0 +1,103 @@
+.btn-blue {
+	background-color: #233567;
+	padding: 15px 20px;
+	border-radius: 5px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Oswald', cursive;
+	margin-right: 10px;
+	opacity: 0.9;
+
+}
+
+.btn-red {
+	background-color: #af0404;
+	padding: 15px 20px;
+	border-radius: 5px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Oswald', cursive;
+	margin-right: 10px;
+	opacity: 0.9;
+}
+
+.btn-grey {
+	background-color: #5f6769;
+	padding: 15px 20px;
+	border-radius: 5px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Oswald', cursive;
+	margin-right: 10px;
+	opacity: 0.9;
+
+
+}
+
+.btn-gold {
+	background-color: #e6b31e;
+	padding: 15px 20px;
+	border-radius: 5px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Oswald', cursive;
+	opacity: 0.9;
+
+}
+
+.btn-white {
+	background-color: #f2f4fb;
+	padding: 15px 20px;
+	border-radius: 5px;
+	color: black;
+	font-weight: bold;
+	font-family: 'Oswald', cursive;
+	margin-right: 10px;
+	opacity: 0.9;
+
+}
+
+.btn-dark {
+	background-color: #252525;
+	padding: 15px 20px;
+	border-radius: 5px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Oswald', cursive;
+	margin-right: 10px;
+	opacity: 0.9;
+
+}
+
+.btn-leboncoin {
+	background-color: #ff6d20;
+	padding: 15px 20px;
+	border-radius: 5px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Oswald', cursive;
+	margin-right: 10px;
+	opacity: 0.9;
+}
+
+.btn-lacentrale {
+	background-color: #b30000;
+	padding: 15px 20px;
+	border-radius: 5px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Oswald', cursive;
+	margin-right: 10px;
+	opacity: 0.9;
+}
+
+.btn-paruvendu {
+	background-color: red;
+	padding: 15px 20px;
+	border-radius: 5px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Oswald', cursive;
+	margin-right: 10px;
+	opacity: 0.9;
+}

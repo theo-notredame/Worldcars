@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css?family=Faster+One|Oswald&display=swap");
+@import	url("components/container.css");
+@import	url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+ 	font-family: 'Oswald', cursive;
+ 	font-size: 14px;
+ 	background: #f4f3f3;
+ 	color: #1a2849;
+ }
+
+h1 {
+	font-family: 'Faster One', sans-serif;
+	font-weight: lighter;
+	font-size: 50px;
+	margin-bottom: 70px;
+	letter-spacing: 8px;
+}
+
+h2 {
+	font-size: 30px;	
+	margin-bottom: 50px;
+	margin-left: 150px;
+}
+
+h3 {
+	font-size: 20px;
+}
+
+a {
+	text-decoration: none;
+}
